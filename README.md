@@ -22,12 +22,9 @@ Currently it is a one page document. The rest of the pages will be added soon
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
 ### Featured Properties
-![](https://g-vans.github.io/Project-Demo-Real-Estate/Photos/image 1.png)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%201.png)
+![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%202.png)
+![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%203.png)
 
 
 ## Mobile support
