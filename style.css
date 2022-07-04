@@ -5,8 +5,14 @@
 }
 h1 {
     color: #0F298B;
-    font-family: Space Grotesk, sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
 }
+#logo {
+    float: left;
+    text-align: left;
+    font-family: Oleo script;
+}
+
 #navigation-container {
     position: relative;
     display: flex;
@@ -25,7 +31,7 @@ a {
     text-decoration: none;
     color: black;
     font-size: 16px;
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-family: "SpaceGrotesk", Arial, Helvetica, sans-serif;
     padding: 5px 15px;
     opacity: 1;
 }
@@ -103,12 +109,14 @@ li {
 
 .card-desc-container{
     display: flex;
-    padding: 10px;
+    margin: 50px;
+    justify-content: space-between;
 }
 .card-description {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     width: 30%;
+    height: 200px;
     padding: 20px;
     text-align: center;
 }
@@ -126,7 +134,7 @@ li {
   .card-testamonials {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 20%;
+    width: 30%;
     padding: 20px;
   }
   
@@ -139,7 +147,7 @@ li {
 
 .footer-container {
     background-color: #0F298B;
-    padding-bottom: 4rem;
+    
     padding-left: 0;
 }
 
@@ -148,10 +156,10 @@ li {
     background-color: #0F298B;
     color: #fff;
     display: flex;
-    
+    justify-content: space-between;
     flex-wrap: wrap;
-    margin: 0 auto;
-    padding-left: 50px;
+    
+    padding-left: 0px;
 }
 
 .footer-heading {
@@ -178,3 +186,16 @@ li {
     margin-bottom: 0.5rem;
 }
 
+.last-btn {
+    float: right;
+    overflow: hidden;
+    background-color: #0F298B;
+    border: none;
+    color: #fff;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
