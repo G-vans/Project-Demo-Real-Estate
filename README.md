@@ -73,10 +73,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+Jevan Otieno - Student
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Jevan Otieno ](https://github.com/G-vans) 
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+## [License](https://github.com/G-vans/Project-Demo-Real-Estate/LICENSE.md)
 
-Moringa © [Jevan otieno](https://github.com/iharsh234)
+MIT © [Jevan otieno](https://github.com/iharsh234)
