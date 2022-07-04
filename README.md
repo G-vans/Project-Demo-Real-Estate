@@ -11,13 +11,13 @@
 
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a working live demo :  https://g-vans.github.io/Project-Demo-Real-Estate/
 
 
 ## Site
 
 ### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+Currently it is a one page document. The rest of the pages will be added soon
 
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
@@ -62,15 +62,14 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- HTML
+- CSS
+- Google fonts
 
 
 ## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
+- View featured properties.
+- Contact sales team
 
 ## Team
 
@@ -80,4 +79,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+Moringa © [Jevan otieno](https://github.com/iharsh234)
