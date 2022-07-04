@@ -21,8 +21,8 @@ Currently it is a one page document. The rest of the pages will be added soon
 
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+### Featured Properties
+![](https://g-vans.github.io/Project-Demo-Real-Estate/Photos/image 1.png)
 
 ### Charts
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
