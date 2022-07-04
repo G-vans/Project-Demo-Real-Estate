@@ -21,21 +21,9 @@ Currently it is a one page document. The rest of the pages will be added soon
 
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
-### Featured Properties
-![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%201.png)
-![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%202.png)
-![](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/Photos/image%203.png)
-
-
 ## Mobile support
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
 
 ### Development
 Want to contribute? Great!
@@ -52,9 +40,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/g-vans/WebApp/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/g-vans/WebApp/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Built with 
