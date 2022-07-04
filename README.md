@@ -1,10 +1,10 @@
 # Project-Demo-Real-Estate
-# ![WebApp](https://g-vans.github.io/Project-Demo-Real-Estate/Photos/Screenshot.JPG)
+# ![Landing page](https://g-vans.github.io/Project-Demo-Real-Estate/Photos/Screenshot.JPG)
 # Landing page
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  A landing page for a real estate company's website. This page contains basic features and fetured products the Vallie's estate offers.
 </td>
 </tr>
 </table>
