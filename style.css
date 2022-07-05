@@ -10,6 +10,7 @@ h1 {
 }
 .nav-ul #logo {
     float: left;
+    padding-right: 300px;
     font-family: 'Oleo script';
 }
 
