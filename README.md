@@ -2,10 +2,12 @@
 
 ## Table of Content
 
-+ [Demo](#demo)
 + [Landing Page](#landing-page)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
++ [Demo](#demo)
++ [Mobile Support](#mobile-support)
++ [Development](#development)
++ [Built with](#built-with)
++ [Features](#feautures)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 + 
