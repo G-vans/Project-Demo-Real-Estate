@@ -11,7 +11,7 @@
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
-# ![Landing page](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/photos/Screenshot.png)
+# ![Landing page](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/photos/Screenshot2.png)
 # Landing page
 <table>
 <tr>
