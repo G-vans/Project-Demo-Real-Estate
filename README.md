@@ -1,5 +1,5 @@
 # Project-Demo-Real-Estate
-# ![Landing page](https://g-vans.github.io/Project-Demo-Real-Estate/photos/Screenshot.JPG)
+# ![Landing page](https://g-vans.github.io/Project-Demo-Real-Estate/photos/Screenshot.png)
 # Landing page
 <table>
 <tr>
