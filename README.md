@@ -1,4 +1,14 @@
 # Project-Demo-Real-Estate
+
+## Table of Content
+
++ [Demo](#demo)
++ [Landing Page](#landing-page)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
++ 
 # ![Landing page](https://github.com/G-vans/Project-Demo-Real-Estate/blob/master/photos/Screenshot.png))
 # Landing page
 <table>
@@ -14,7 +24,6 @@
 Here is a working live demo :  https://g-vans.github.io/Project-Demo-Real-Estate/
 
 
-## Site
 
 ### Landing Page
 Currently it is a one page document. The rest of the pages will be added soon
@@ -36,13 +45,6 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
 
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/g-vans/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/g-vans/WebApp/issues/new). Please include sample queries and their corresponding results.
-
-
 ## Built with 
 
 - HTML
@@ -50,19 +52,17 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Google fonts
 
 
-## To-do
+## Features
 - View featured properties.
 - Contact sales team
 
-## Team
+## Author
 
 Jevan Otieno - Student
 ---|---
 [Jevan Otieno ](https://github.com/G-vans) 
 
 ## [License](https://github.com/G-vans/Project-Demo-Real-Estate/LICENSE.md)
-
-## Licence
 
 MIT License
 
