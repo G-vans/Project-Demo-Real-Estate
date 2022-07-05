@@ -1,16 +1,16 @@
 /*Nav bar styling*/
  * {
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
 }
 h1 {
     color: #0F298B;
     font-family: 'Space Grotesk', sans-serif;
 }
-#logo {
+#naviagtion-container #logo {
     float: left;
     text-align: left;
-    font-family: Oleo script;
+    font-family: 'Oleo script';
 }
 
 #navigation-container {
@@ -31,7 +31,7 @@ a {
     text-decoration: none;
     color: black;
     font-size: 16px;
-    font-family: "SpaceGrotesk", Arial, Helvetica, sans-serif;
+    font-family: "SpaceGrotesk", sans-serif;
     padding: 5px 15px;
     opacity: 1;
 }
@@ -39,7 +39,7 @@ a {
 li {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: right;
 }
 
 .button {
@@ -95,8 +95,8 @@ li {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     width: 30%;
-    padding: 20px;
-    display: flex;
+    padding: 0;
+    
 }
 .image-card2 img {
     object-fit: cover;
@@ -197,5 +197,5 @@ li {
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 12px;
 }
