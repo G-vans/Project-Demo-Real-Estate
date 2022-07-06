@@ -248,3 +248,6 @@ a {
     cursor: pointer;
     border-radius: 12px;
 }
+ul {
+    list-style-type: none;
+}
